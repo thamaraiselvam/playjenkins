@@ -16,7 +16,7 @@ spec:
         app: myweb
     spec:
       containers:
-      - image: saptaktw/endgame:1
+      - image: thamaraiselvam/endgame:1
         imagePullPolicy: Always
         name: myweb
 ---
